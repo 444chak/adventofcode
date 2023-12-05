@@ -11,9 +11,9 @@ For the moment exclusively in Python, but perhaps another language will appear o
 | Day | Part 1 | Part 2 |                                     Link                                     |
 | :-: | :----: | :----: | :--------------------------------------------------------------------------: |
 |  1  |   ✅   |   ✅   | [🔗](https://github.com/444chak/adventofcode/tree/main/adventofcode23/day1) |
-|  2  |   ✅   |   ✅   | [🔗](https://github.com/444chak/adventofcode/tree/main/adventofcode23/day1) |
+|  2  |   ✅   |   ✅   | [🔗](https://github.com/444chak/adventofcode/tree/main/adventofcode23/day2) |
 |  3  |   ✅   |   ✅   |                                      ⌛                                     |
-|  4  |   ✅   |   ✅   | [🔗](https://github.com/444chak/adventofcode/tree/main/adventofcode23/day1) |
+|  4  |   ✅   |   ✅   | [🔗](https://github.com/444chak/adventofcode/tree/main/adventofcode23/day4) |
 |  5  |   ✅   |   ✅   |                                      ⌛                                     |
 |  6  |   ⌛   |   ⌛   |                                      ⌛                                     |
 
