@@ -1,6 +1,6 @@
 """
-Advent of code 2023 - Day 3 - Part 1 & 2
-https://adventofcode.com/2023/day/3
+Advent of code 2023 - Day 4 - Part 1 & 2
+https://adventofcode.com/2023/day/4
 """
 
 import os
