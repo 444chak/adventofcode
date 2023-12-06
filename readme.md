@@ -15,7 +15,7 @@ For the moment exclusively in Python, but perhaps another language will appear o
 |  3  |   ✅   |   ✅   |                                      ⌛                                     |
 |  4  |   ✅   |   ✅   | [🔗](https://github.com/444chak/adventofcode/tree/main/adventofcode23/day4) |
 |  5  |   ✅   |   ✅   |                                      ⌛                                     |
-|  6  |   ⌛   |   ⌛   |                                      ⌛                                     |
+|  6  |   ✅   |   ✅   | [🔗](https://github.com/444chak/adventofcode/tree/main/adventofcode23/day6) |
 
 
 >need to redo day 3 & day 5 as the code was disgusting (really, you don't want to see that).
