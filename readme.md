@@ -5,7 +5,7 @@ For the moment exclusively in Python, but perhaps another language will appear o
 [Advent of Code 2022](https://github.com/444chak/adventofcode22/) : 1-11✅ 11-25❌  
 > It was my first..  
 
-[Advent of Code 2023](https://github.com/444chak/adventofcode/tree/main/adventofcode23) : In progress... 🚧  
+[Advent of Code 2023](https://github.com/444chak/adventofcode/tree/main/adventofcode23) : 1-20✅ 21-25❌  
 
 
 | Day | Part 1 | Part 2 |                                     Link                                      |
