@@ -1,6 +1,6 @@
 """
-Advent of code 2025 - Day 1 - Part 1 & 2
-https://adventofcode.com/2025/day/1
+Advent of code 2025 - Day 2 - Part 1 & 2
+https://adventofcode.com/2025/day/2
 """
 
 import os
